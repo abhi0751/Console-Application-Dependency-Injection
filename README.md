@@ -13,6 +13,7 @@ Add a json configuration file to the project and name it `appsettings.json`
 2. Install Nuget Package `Microsoft.Extensions.Configuration`
 3. Install Nuget Package `Microsoft.Extensions.Configuration.Binder`
 4. Install Nuget Package `Microsoft.Extensions.Configuration.Json`
+
 IMPORTANT: Open appsettings.json properties, and change Copy To Output Directory, to Copy if newer or Copy always
 
 https://dev.to/ballcapz/adding-dependency-injection-to-net-core-console-applications-on-windows-3pm0
